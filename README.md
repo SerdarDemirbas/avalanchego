@@ -31,7 +31,7 @@ If you plan to build AvalancheGo from source, you will also need the following s
 Clone the AvalancheGo repository:
 
 ```sh
-git clone git@github.com:ava-labs/avalanchego.git
+git clone https://github.com/ava-labs/avalanchego.git
 cd avalanchego
 ```
 
